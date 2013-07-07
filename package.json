@@ -1,6 +1,6 @@
 {
   "name": "new-stream",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Parse and Stringify newline separated streams (including JSON parsing if required)",
   "keywords": [],
   "dependencies": {
