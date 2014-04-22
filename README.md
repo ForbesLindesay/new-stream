@@ -2,9 +2,9 @@
 
 Parse and Stringify newline separated streams (including JSON parsing if required)
 
-[![Build Status](https://travis-ci.org/ForbesLindesay/new-stream.png?branch=master)](https://travis-ci.org/ForbesLindesay/new-stream)
-[![Dependency Status](https://gemnasium.com/ForbesLindesay/new-stream.png)](https://gemnasium.com/ForbesLindesay/new-stream)
-[![NPM version](https://badge.fury.io/js/new-stream.png)](http://badge.fury.io/js/new-stream)
+[![Build Status](https://img.shields.io/travis/ForbesLindesay/new-stream/master.svg)](https://travis-ci.org/ForbesLindesay/new-stream)
+[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/new-stream.svg)](https://gemnasium.com/ForbesLindesay/new-stream)
+[![NPM version](https://img.shields.io/npm/v/new-stream.svg)](http://badge.fury.io/js/new-stream)
 
 ## Installation
 
