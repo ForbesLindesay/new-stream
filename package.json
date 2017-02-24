@@ -4,7 +4,7 @@
   "description": "Parse and Stringify newline separated streams (including JSON parsing if required)",
   "keywords": [],
   "dependencies": {
-    "barrage": "0.0.4"
+    "barrage": "1.1.0"
   },
   "devDependencies": {
     "mocha": "*"
