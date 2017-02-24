@@ -1,5 +1,7 @@
 # new-stream
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/new-stream.svg)](https://greenkeeper.io/)
+
 Parse and Stringify newline separated streams (including JSON parsing if required)
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/new-stream/master.svg)](https://travis-ci.org/ForbesLindesay/new-stream)
